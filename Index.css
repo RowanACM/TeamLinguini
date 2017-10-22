@@ -1,0 +1,36 @@
+/*
+   Home Page Style Sheet
+   Author: Steven Bruman
+   Date:   10/22/2017
+
+   Filename:         Index.css
+   Supporting Files: none
+
+*/
+
+/* Section Styles */
+
+body {
+margin: 0px auto;
+padding: 0px;
+float: center;
+width: 80%;
+font-family: Times New Roman, Times, serif;
+background-color: rgb(50,50,50);
+}
+
+header {
+	width: 90%;
+	float: center;
+	text-align: center;
+	background-color: rgb(200, 200, 200);
+	margin: 20px;
+	
+	border: inset 10px; 
+	border-style: groove; 
+	border-color: rgb(47, 0, 118);
+
+	-moz-border-radius: 25px;
+	-webkit-border-radius: 25px;
+	border-radius: 25px;
+}
