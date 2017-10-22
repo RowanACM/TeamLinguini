@@ -13,20 +13,19 @@
 body {
 	margin: 0 auto;
 	padding: 0px;
-	float: center;
-	width: 80%;
+	width: 90%;
 	font-family: Times New Roman, Times, serif;
 	background-color: rgb(50,50,50);
 }
 
 header {
+	clear: left;	
 	width: 90%;
-	float: center;
 	text-align: center;
 	background-color: rgb(200, 200, 200);
 	margin: 0 auto;
 	
-	border: inset 10px; 
+	border: 8px; 
 	border-style: groove; 
 	border-color: rgb(47, 0, 118);
 
@@ -53,9 +52,7 @@ footer address {
 }
 
 .row {
-	width: 80%;
-	float: middle;
-	width: 90%;
+	width: 75%;
 	text-align: center;
 	margin: 0 auto;
 }
