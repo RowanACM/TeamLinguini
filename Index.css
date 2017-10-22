@@ -34,3 +34,52 @@ header {
 	-webkit-border-radius: 25px;
 	border-radius: 25px;
 }
+
+.row {
+	width: 80%;
+	float: middle;
+	width: 90%;
+	text-align: center;
+	margin: 20px;
+}
+
+.card1 {
+	width: 45%;
+	float: left;
+}
+
+.card2 {
+	width: 45%;
+	float: right;
+}
+
+.card {
+	width: 100%;
+	text-align: center;
+	background-color: white;
+	margin: 20px;
+}
+
+#saunders {
+	
+}
+
+#walder {
+	
+}
+
+#cadberry {
+	
+}
+
+#bruman {
+	
+}
+
+#quinn{
+	
+}
+
+#lopresti {
+	
+}
