@@ -1,7 +1,7 @@
 /*
    Home Page Style Sheet
    Author: Steven Bruman
-   Date:   10/22/2017
+   Date:   10/26/2017
 
    Filename:         Index.css
    Supporting Files: none
@@ -61,46 +61,37 @@ footer address {
 	width: 45%;
 	float: left;
 	margin: 0 auto;
+	padding: 10px;
 }
 
 .card2 {
 	width: 45%;
 	float: right;
 	margin: 0 auto;
+	padding: 10px;
 }
 
 .card {
 	margin: 0 auto;
 	width: 100%;
 	text-align: center;
-	background-color: white;
-	margin: 20px;
 	-moz-border-radius: 5px;
 	-webkit-border-radius: 5px;
 	border-radius: 5px;
 	background-color: rgb(200, 200, 200);
 }
 
-#saunders {
-	
+.left {
+	width: 30%;
+	float: left;
 }
 
-#walder {
-	
+.name {
+	width: 80%;
+	text-align: center;
 }
 
-#cadberry {
-	
-}
-
-#bruman {
-	
-}
-
-#quinn{
-	
-}
-
-#lopresti {
-	
+.descript {
+	width: 70%;
+	float: right;
 }
