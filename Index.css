@@ -51,7 +51,7 @@ footer address {
 	clear: left;
 	font-size: 0.8em;
 	background-color: rgb(70, 70, 70);
-	color: rgb(100, 100, 100);
+	color: white;
 }
 
 .row {
@@ -75,8 +75,8 @@ footer address {
 }
 
 .card {
-	margin: 0 auto;
-	width: 100%;
+	margin: 15px auto;
+	width: 80%;
 	text-align: center;
 	/*-moz-border-radius: 5px;
 	-webkit-border-radius: 5px;
